@@ -1,9 +1,9 @@
 {
   "version": "v1.0.0",
-  "git_commit": "22da7cb64a211e671b7e1b9db7b8549d04abb0d4",
+  "git_commit": "f56b89e1a6a743c9762c5e69ff4834315b7bc72d",
   "git_branch": "main",
-  "timestamp": "2026-05-19T07:02:17Z",
+  "timestamp": "2026-05-20T07:03:08Z",
   "benchmarks": {
-    "BenchmarkHeaderManipulation": {"iterations": 87221535, "ns_per_op": 412.2, "bytes_per_op": 616, "allocs_per_op": 3}
+    "BenchmarkHeaderManipulation": {"iterations": 94721277, "ns_per_op": 378.7, "bytes_per_op": 616, "allocs_per_op": 3}
   }
 }
